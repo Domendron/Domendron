@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou o  Paulo Soares @Domendron
 - 👀 O meu interesse é facilitar as coisas para todos.
 - 🌱 Atualmente estou aprendendo a mexer no Github.
-- 💞️ Espero por aprender com todos vocês.
+- 💞️ Espero aprender com todos vocês.
 - 📫 Se precisar de ajuda, entre em contato pelo domendron@gmail.com.
 - 👊 Um forte abraço e Força Sempre.
 
